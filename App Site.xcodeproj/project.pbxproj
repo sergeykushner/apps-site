@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5209B2192A97AEAA001DCF23 /* iphone-14-pro-max-silver-group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone-14-pro-max-silver-group.png"; sourceTree = "<group>"; };
+		5209B21A2A97AEAA001DCF23 /* iphone-14-pro-max-silver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone-14-pro-max-silver.png"; sourceTree = "<group>"; };
+		5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "download-on-the-app-store-badge.svg"; sourceTree = "<group>"; };
+		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5235BE282A8A62AC001D797B = {
+			isa = PBXGroup;
+			children = (
+				5235BE332A8A6411001D797B /* assets */,
+				5235BE2F2A8A633A001D797B /* index.html */,
+				5235BE302A8A633A001D797B /* privacy.html */,
+			);
+			sourceTree = "<group>";
+		};
+		5235BE332A8A6411001D797B /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				5209B21A2A97AEAA001DCF23 /* iphone-14-pro-max-silver.png */,
+				5209B2192A97AEAA001DCF23 /* iphone-14-pro-max-silver-group.png */,
+				5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5235BE292A8A62AC001D797B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 5235BE2C2A8A62AC001D797B /* Build configuration list for PBXProject "App Site" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5235BE282A8A62AC001D797B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5235BE2D2A8A62AC001D797B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5235BE2E2A8A62AC001D797B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5235BE2C2A8A62AC001D797B /* Build configuration list for PBXProject "App Site" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5235BE2D2A8A62AC001D797B /* Debug */,
+				5235BE2E2A8A62AC001D797B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5235BE292A8A62AC001D797B /* Project object */;
+}
