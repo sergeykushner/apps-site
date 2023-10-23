@@ -12,6 +12,8 @@
 		5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "download-on-the-app-store-badge.svg"; sourceTree = "<group>"; };
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
+		5298B2F22AE6C148009698B1 /* aiwriter_appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aiwriter_appicon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -20,6 +22,7 @@
 			children = (
 				5235BE332A8A6411001D797B /* assets */,
 				5235BE2F2A8A633A001D797B /* index.html */,
+				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
 				5235BE302A8A633A001D797B /* privacy.html */,
 			);
 			sourceTree = "<group>";
@@ -27,6 +30,7 @@
 		5235BE332A8A6411001D797B /* assets */ = {
 			isa = PBXGroup;
 			children = (
+				5298B2F22AE6C148009698B1 /* aiwriter_appicon.png */,
 				5209B21A2A97AEAA001DCF23 /* iphone-14-pro-max-silver.png */,
 				5209B2192A97AEAA001DCF23 /* iphone-14-pro-max-silver-group.png */,
 				5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */,

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-itunes-app" content="app-id=6461417294, app-argument=myURL">
+    <title>Clothtag</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            line-height: 1.6;
+            padding: 30px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            min-height: 90vh;
+            margin: 0;
+        }
+        h1, p {
+           margin-top: 0;
+           margin-bottom: 10px;
+        }
+        .container {
+            width: 50%;
+        }
+        .hero, .badge {
+            width: 100%;
+            height: auto;
+            margin-top: 15px;
+        }
+        .badge {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        footer {
+         margin-top: auto;
+         margin-bottom: 0px;
+        color: #888;
+        }
+        footer a {
+            color: #2A64C5;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        @media (orientation: portrait) {
+            .container {
+                width: 50%;
+            }
+        }
+        @media (orientation: landscape) {
+            .container {
+                width: 50%;
+            }
+            .badge {
+                width: 25%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>AIWL</h1>
+    <p>AI Writer of Lyrics</p>
+    <div class="container">
+        <picture>
+            <source media="(orientation: portrait)" srcset="https://sergeykushner.github.io/app-site/assets/iphone-14-pro-max-silver-clothes-view.png?raw=true">
+            <source media="(orientation: landscape)" srcset="https://sergeykushner.github.io/app-site/assets/iphone-14-pro-max-silver-group.png?raw=true">
+            <img src="https://sergeykushner.github.io/app-site/assets/iphone-14-pro-max-silver.png?raw=true" alt="App Screenshot" class="hero">
+        </picture>
+    </div>
+    <div class="container">
+        <a href="https://itunes.apple.com/us/app/id" target="_blank" rel="noopener noreferrer">
+            <img src="https://sergeykushner.github.io/app-site/assets/download-on-the-app-store-badge.svg" alt="Download on the App Store badge" class="badge">
+        </a>
+    </div>
+    <footer>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="mailto:floors.bedpost_0s@icloud.com">Contact Us</a>
+    </footer>
+</body>
+</html>
