@@ -12,6 +12,7 @@
 		5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "download-on-the-app-store-badge.svg"; sourceTree = "<group>"; };
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
 		5298B2F22AE6C148009698B1 /* aiwriter-appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aiwriter-appicon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -20,6 +21,7 @@
 		5235BE282A8A62AC001D797B = {
 			isa = PBXGroup;
 			children = (
+				523BB0F62AE7C3CF00E6CB78 /* NOTES */,
 				5235BE332A8A6411001D797B /* assets */,
 				5235BE2F2A8A633A001D797B /* index.html */,
 				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
