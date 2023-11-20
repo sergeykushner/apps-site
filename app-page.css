@@ -7,9 +7,6 @@ body {
 
 .hero-section {
     padding: 25px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
 }
 
 .hero-section img {
@@ -19,7 +16,6 @@ body {
 .hero-section h1 {
     color: #1D1D1F;
     font-weight: bold;
-    text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -29,23 +25,16 @@ body {
     font-size: 22px;
     line-height: 28px;
     font-weight: normal;
-    text-align: center;
 }
 
 .app-store-badge {
-    text-align: center;
     margin-bottom: 50px;
-}
-
-.app-store-badge a {
-    display: inline-block;
 }
 
 .index-section {
     padding: 25px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
 }
 
 .index-section img {
@@ -58,7 +47,6 @@ body {
     font-size: 34px;
     line-height: 41px;
     font-weight: bold;
-    text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -68,7 +56,6 @@ body {
     font-size: 17px;
     line-height: 22px;
     font-weight: normal;
-    text-align: center;
 }
 
 h1 {
@@ -101,9 +88,6 @@ h2 {
     .hero-section img {
         width: 100%;
     }
-    .app-store-badge img {
-        width: 50vw;
-    }
     .index-section img {
         width: 100%;
     }
@@ -115,9 +99,6 @@ h2 {
     }
     .hero-section img {
         width: 50%;
-    }
-    .app-store-badge img {
-        width: 10vw;
     }
     .index-section img {
         width: 50%;
