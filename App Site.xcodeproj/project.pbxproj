@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5209B2192A97AEAA001DCF23 /* aiwriter-iphone-14-pro-max-silver-group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aiwriter-iphone-14-pro-max-silver-group.png"; sourceTree = "<group>"; };
-		5209B21A2A97AEAA001DCF23 /* aiwriter-iphone-14-pro-max-silver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aiwriter-iphone-14-pro-max-silver.png"; sourceTree = "<group>"; };
-		5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "download-on-the-app-store-badge.svg"; sourceTree = "<group>"; };
+		5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = badge_download_on_the_app_store.svg; sourceTree = "<group>"; };
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
-		5298B2F22AE6C148009698B1 /* aiwriter-appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aiwriter-appicon.png"; sourceTree = "<group>"; };
+		52CDE1972B0B2C6600D3FCAD /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
+		52CDE1982B0B2E4B00D3FCAD /* favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon.png; sourceTree = "<group>"; };
+		52CDE1992B0B34C800D3FCAD /* app.page.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.page.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -22,22 +22,22 @@
 			isa = PBXGroup;
 			children = (
 				523BB0F62AE7C3CF00E6CB78 /* NOTES */,
-				5235BE332A8A6411001D797B /* assets */,
+				5235BE332A8A6411001D797B /* images */,
 				5235BE2F2A8A633A001D797B /* index.html */,
 				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
+				52CDE1992B0B34C800D3FCAD /* app.page.css */,
 				5235BE302A8A633A001D797B /* privacy.html */,
 			);
 			sourceTree = "<group>";
 		};
-		5235BE332A8A6411001D797B /* assets */ = {
+		5235BE332A8A6411001D797B /* images */ = {
 			isa = PBXGroup;
 			children = (
-				5298B2F22AE6C148009698B1 /* aiwriter-appicon.png */,
-				5209B21A2A97AEAA001DCF23 /* aiwriter-iphone-14-pro-max-silver.png */,
-				5209B2192A97AEAA001DCF23 /* aiwriter-iphone-14-pro-max-silver-group.png */,
-				5209B21B2A97B1B4001DCF23 /* download-on-the-app-store-badge.svg */,
+				5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */,
+				52CDE1982B0B2E4B00D3FCAD /* favicon.png */,
+				52CDE1972B0B2C6600D3FCAD /* hero_screens_group.webp */,
 			);
-			path = assets;
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
