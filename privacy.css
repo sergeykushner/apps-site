@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-    color: #6E6E73;
+    color: #6e6e73;
     font-weight: normal;
     font-size: 20px;
     line-height: 25px;
@@ -37,19 +37,10 @@ a {
     text-decoration: none;
 }
 
-@media (orientation: portrait) {
-    body {
-        background: #FFFFFF;
-        color: #FFFFFF;
-        font-family: Arial;
-        text-align: start;
-        padding-top: 5%;
-        padding-bottom: 5%;
-    }
-}
-
 @media (orientation: landscape) {
     body {
+        padding-top: 2%;
+        padding-bottom: 2%;
         padding-inline: 15%;
     }
 }

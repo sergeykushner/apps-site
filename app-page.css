@@ -70,6 +70,10 @@ body {
 }
 
 @media (orientation: landscape) {
+    body {
+        padding-top: 2%;
+    }
+    
     .hero-section img {
         width: 50%;
     }
