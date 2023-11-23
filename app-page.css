@@ -1,13 +1,10 @@
 body {
-    background: #FFFFFF;
-    color: #FFFFFF;
-    font-family: Helvetica, Arial;
+    font-family: Arial;
     text-align: center;
+    padding: 5%;
 }
 
-.hero-section {
-    padding: 25px;
-}
+.hero-section {}
 
 .hero-section img {
     padding-bottom: 25px;
@@ -15,86 +12,81 @@ body {
 
 .hero-section h1 {
     color: #1D1D1F;
-    font-size: 34px;
-    line-height: 41px;
     font-weight: bold;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    font-size: 34px;
+    line-height: 50px;
 }
 
 .hero-section h2 {
     color: #1D1D1F;
-    font-size: 22px;
-    line-height: 28px;
     font-weight: normal;
+    font-size: 22px;
+    line-height: 50px;
 }
 
 .app-store-badge {
-    margin-bottom: 50px;
+    padding-top: 25px;
 }
 
 .index-section {
-    padding: 25px;
-    margin-left: auto;
-    margin-right: auto;
+    padding-top: 50px;
 }
 
-.index-section img {
-    padding-top: 25px;
-    padding-bottom: 25px;
-}
-
-.index-section h1 {
+.index-section h3 {
     color: #1D1D1F;
-    font-size: 34px;
-    line-height: 41px;
     font-weight: bold;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    font-size: 19px;
+    line-height: 25px;
 }
 
 .index-section p {
     color: #1D1D1F;
+    font-weight: normal;
     font-size: 17px;
     line-height: 22px;
-    font-weight: normal;
-}
-
-h1 {
-    
-}
-
-h2 {
-    
+    text-align: start;
 }
 
 .footer {
+    padding-top: 50px;
     padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .footer a {
     color: #2A64C5;
+    font-weight: normal;
     font-size: 13px;
     line-height: 18px;
-    font-weight: normal;
     text-decoration: none;
-    display: inline-block;
-    width: 150px;
 }
 
 @media (orientation: portrait) {
     .hero-section img {
         width: 100%;
     }
+
     .index-section img {
         width: 100%;
     }
 }
+
 @media (orientation: landscape) {
     .hero-section img {
         width: 50%;
     }
+
+    .index-section {
+        padding-inline: 15%;
+    }
+
     .index-section img {
         width: 50%;
+    }
+
+    .footer {
+        padding-inline: 15%;
     }
 }
