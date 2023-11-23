@@ -12,8 +12,9 @@
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
-		52CDE1972B0B2C6600D3FCAD /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
-		52CDE1982B0B2E4B00D3FCAD /* favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon.png; sourceTree = "<group>"; };
+		52BC777F2B0F7D72002F228F /* aiwriter_apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aiwriter_apple_touch_icon.png; sourceTree = "<group>"; };
+		52CDE1972B0B2C6600D3FCAD /* aiwriter_hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = aiwriter_hero_screens_group.webp; sourceTree = "<group>"; };
+		52CDE1982B0B2E4B00D3FCAD /* aiwriter_favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aiwriter_favicon.png; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app-page.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "app-page.css"; sourceTree = "<group>"; };
 		52CDE19A2B0B589600D3FCAD /* privacy.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = privacy.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -36,8 +37,9 @@
 			isa = PBXGroup;
 			children = (
 				5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */,
-				52CDE1982B0B2E4B00D3FCAD /* favicon.png */,
-				52CDE1972B0B2C6600D3FCAD /* hero_screens_group.webp */,
+				52BC777F2B0F7D72002F228F /* aiwriter_apple_touch_icon.png */,
+				52CDE1982B0B2E4B00D3FCAD /* aiwriter_favicon.png */,
+				52CDE1972B0B2C6600D3FCAD /* aiwriter_hero_screens_group.webp */,
 			);
 			path = images;
 			sourceTree = "<group>";

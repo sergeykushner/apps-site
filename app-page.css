@@ -28,18 +28,18 @@ body {
     padding-top: 25px;
 }
 
-.index-section {
+.description-section {
     padding-top: 50px;
 }
 
-.index-section h3 {
+.description-section h3 {
     color: #1D1D1F;
     font-weight: bold;
     font-size: 19px;
     line-height: 25px;
 }
 
-.index-section p {
+.description-section p {
     color: #1D1D1F;
     font-weight: normal;
     font-size: 17px;
@@ -67,10 +67,6 @@ body {
     .hero-section img {
         width: 100%;
     }
-
-    .index-section img {
-        width: 100%;
-    }
 }
 
 @media (orientation: landscape) {
@@ -78,12 +74,8 @@ body {
         width: 50%;
     }
 
-    .index-section {
+    .description-section {
         padding-inline: 15%;
-    }
-
-    .index-section img {
-        width: 50%;
     }
 
     .footer {
