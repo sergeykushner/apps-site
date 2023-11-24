@@ -69,15 +69,15 @@ p {
     }
     
     .footer {
-        padding-top: 64px;
-        padding-bottom: 64px;
+        padding-top: 32px;
+        padding-bottom: 32px;
     }
 }
 
 @media (orientation: landscape) {
     body {
         padding-top: 16px;
-        padding-bottom: 32px;
+        padding-bottom: 64px;
     }
     
     .hero-section img {
@@ -94,7 +94,6 @@ p {
     
     .footer {
         padding-top: 64px;
-        padding-bottom: 64px;
         padding-inline: 15%;
     }
 }
