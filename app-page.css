@@ -1,41 +1,37 @@
 body {
     font-family: Arial;
     text-align: center;
-    padding: 5%;
 }
 
 .hero-section {}
 
-.hero-section img {
-    padding-bottom: 25px;
-}
-
 .hero-section h1 {
     color: #1D1D1F;
     font-weight: bold;
-    font-size: 34px;
-    line-height: 50px;
+    font-size: 28;
+    line-height: 34px;
 }
 
 .hero-section h2 {
     color: #1D1D1F;
     font-weight: normal;
-    font-size: 22px;
-    line-height: 50px;
+    font-size: 22;
+    line-height: 28px;
 }
 
-.app-store-badge {
-    padding-top: 25px;
+.hero-section a {
+    display: inline-block;
+    padding-top: 14px;
 }
 
 .description-section {
-    padding-top: 50px;
+    padding-top: 64px;
 }
 
 .description-section h3 {
     color: #1D1D1F;
     font-weight: bold;
-    font-size: 19px;
+    font-size: 20px;
     line-height: 25px;
 }
 
@@ -48,8 +44,6 @@ body {
 }
 
 .footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,25 +58,35 @@ body {
 }
 
 @media (orientation: portrait) {
+    body {
+        padding: 16px;
+    }
     .hero-section img {
         width: 100%;
+    }
+    
+    .footer {
+        padding-top: 16px;
+        padding-bottom: 16px;
     }
 }
 
 @media (orientation: landscape) {
-    body {
-        padding-top: 2%;
+    .hero-section img {
+        width: 70%;
     }
     
-    .hero-section img {
-        width: 60%;
+    .hero-section a {
+        width: 25%;
     }
-
+    
     .description-section {
         padding-inline: 15%;
     }
-
+    
     .footer {
+        padding-top: 5%;
+        padding-bottom: 5%;
         padding-inline: 15%;
     }
 }
