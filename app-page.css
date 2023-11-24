@@ -76,6 +76,11 @@ body {
 }
 
 @media (orientation: landscape) {
+    body {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    
     .hero-section img {
         width: 50%;
     }
@@ -92,7 +97,6 @@ body {
     
     .footer {
         padding-top: 5%;
-        padding-bottom: 5%;
         padding-inline: 15%;
     }
 }
