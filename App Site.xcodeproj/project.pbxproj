@@ -11,8 +11,8 @@
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
-		526FF96A2B10FF97004BA46F /* favicon_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon_icon.png; sourceTree = "<group>"; };
 		526FF96B2B110281004BA46F /* hero_screens_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group.png; sourceTree = "<group>"; };
+		526FF96C2B11053C004BA46F /* favicon_icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = favicon_icon.svg; sourceTree = "<group>"; };
 		528494152B1067F600F9C65A /* apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_touch_icon.png; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app-page.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "app-page.css"; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				528494152B1067F600F9C65A /* apple_touch_icon.png */,
-				526FF96A2B10FF97004BA46F /* favicon_icon.png */,
+				526FF96C2B11053C004BA46F /* favicon_icon.svg */,
 				526FF96B2B110281004BA46F /* hero_screens_group.png */,
 			);
 			path = aiwriter;
