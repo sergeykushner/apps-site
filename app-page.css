@@ -21,7 +21,6 @@ body {
 
 .hero-section a {
     display: inline-block;
-    padding-top: 14px;
 }
 
 .description-section h3 {
@@ -57,12 +56,17 @@ body {
     body {
         padding: 16px;
     }
+    
     .hero-section img {
         width: 100%;
     }
     
+    .hero-section a {
+        padding-top: 64px;
+    }
+    
     .description-section {
-        padding-top: 128px;
+        padding-top: 64px;
     }
     
     .footer {
