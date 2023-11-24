@@ -11,6 +11,11 @@
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
+		528494142B10666400F9C65A /* test-page.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "test-page.html"; sourceTree = "<group>"; };
+		528494152B1067F600F9C65A /* test_apple_touch_icon_180x180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_apple_touch_icon_180x180.png; sourceTree = "<group>"; };
+		528494162B1067F600F9C65A /* test_icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = test_icon.svg; sourceTree = "<group>"; };
+		528494182B10689800F9C65A /* test_icon_32x32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_icon_32x32.png; sourceTree = "<group>"; };
+		528494192B10689800F9C65A /* test_icon_192x192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_icon_192x192.png; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* aiwriter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = aiwriter.html; sourceTree = "<group>"; };
 		52BC777F2B0F7D72002F228F /* aiwriter_apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aiwriter_apple_touch_icon.png; sourceTree = "<group>"; };
 		52CDE1972B0B2C6600D3FCAD /* aiwriter_hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = aiwriter_hero_screens_group.webp; sourceTree = "<group>"; };
@@ -26,6 +31,7 @@
 				523BB0F62AE7C3CF00E6CB78 /* NOTES */,
 				5235BE332A8A6411001D797B /* images */,
 				5235BE2F2A8A633A001D797B /* index.html */,
+				528494142B10666400F9C65A /* test-page.html */,
 				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
 				5235BE302A8A633A001D797B /* privacy.html */,
 				52CDE1992B0B34C800D3FCAD /* app-page.css */,
@@ -37,6 +43,10 @@
 			isa = PBXGroup;
 			children = (
 				5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */,
+				528494182B10689800F9C65A /* test_icon_32x32.png */,
+				528494192B10689800F9C65A /* test_icon_192x192.png */,
+				528494152B1067F600F9C65A /* test_apple_touch_icon_180x180.png */,
+				528494162B1067F600F9C65A /* test_icon.svg */,
 				52BC777F2B0F7D72002F228F /* aiwriter_apple_touch_icon.png */,
 				52CDE1982B0B2E4B00D3FCAD /* aiwriter_favicon.png */,
 				52CDE1972B0B2C6600D3FCAD /* aiwriter_hero_screens_group.webp */,
