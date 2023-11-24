@@ -3,39 +3,42 @@ body {
     text-align: center;
 }
 
-.hero-section {}
-
-.hero-section h1 {
+h1 {
     color: #1D1D1F;
     font-weight: bold;
     font-size: 28;
     line-height: 34px;
 }
 
-.hero-section h2 {
+h2 {
     color: #1D1D1F;
     font-weight: normal;
     font-size: 22;
     line-height: 28px;
 }
 
-.hero-section a {
-    display: inline-block;
-}
-
-.description-section h3 {
+h3 {
     color: #1D1D1F;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 20px;
     line-height: 25px;
 }
 
-.description-section p {
+p {
     color: #1D1D1F;
     font-weight: normal;
     font-size: 17px;
     line-height: 22px;
     text-align: start;
+}
+
+.description-section {
+    padding-top: 64px;
+}
+
+.hero-section a {
+    display: inline-block;
+    padding-top: 64px;
 }
 
 .footer {
@@ -62,11 +65,7 @@ body {
     }
     
     .hero-section a {
-        padding-top: 64px;
-    }
-    
-    .description-section {
-        padding-top: 64px;
+        width: 50%;
     }
     
     .footer {
@@ -77,8 +76,8 @@ body {
 
 @media (orientation: landscape) {
     body {
-        padding-top: 2,5%;
-        padding-bottom: 5%;
+        padding-top: 16px;
+        padding-bottom: 32px;
     }
     
     .hero-section img {
@@ -87,16 +86,14 @@ body {
     
     .hero-section a {
         width: 20%;
-        padding-top: 5%;
     }
     
     .description-section {
-        padding-top: 5%;
         padding-inline: 15%;
     }
     
     .footer {
-        padding-top: 5%;
+        padding-top: 64px;
         padding-inline: 15%;
     }
 }
