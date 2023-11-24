@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+.hero-section img {
+    padding-bottom: 16px;
+}
+
 h1 {
     color: #1D1D1F;
     font-weight: bold;
