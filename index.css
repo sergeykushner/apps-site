@@ -8,7 +8,6 @@ body {
 .apps-section {
     background: #FFFFFF;
     display: inline-block;
-    margin-top: 16px;
     padding-bottom: 16px;
     border-radius: 16px;
     overflow: hidden;
@@ -32,7 +31,6 @@ h2 {
 @media (orientation: portrait) {
     body {
         padding: 16px;
-        padding-top: 32px;
     }
 
     .apps-section {
@@ -53,6 +51,7 @@ h2 {
 
     .apps-section {
         width: 50%;
+        margin-top: 32px;
     }
 
     .apps-section img {
