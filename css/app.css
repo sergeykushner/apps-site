@@ -46,7 +46,6 @@ p {
     color: #1D1D1F;
     font-weight: normal;
     font-size: 17px;
-    line-height: 44px;
     text-align: start;
 }
 
@@ -77,6 +76,10 @@ p {
         width: 50%;
     }
     
+    .description-section li {
+        line-height: 22px;
+    }
+    
     .footer {
         padding-top: 32px;
         padding-bottom: 32px;
@@ -99,6 +102,10 @@ p {
     
     .description-section {
         padding-inline: 15%;
+    }
+    
+    .description-section li {
+        line-height: 44px;
     }
     
     .footer {
