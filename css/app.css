@@ -42,13 +42,6 @@ p {
     padding-bottom: 48px;
 }
 
-.description-section li {
-    color: #1D1D1F;
-    font-weight: normal;
-    font-size: 17px;
-    text-align: start;
-}
-
 .footer {
     display: flex;
     justify-content: space-between;
@@ -76,10 +69,6 @@ p {
         width: 50%;
     }
     
-    .description-section li {
-        line-height: 22px;
-    }
-    
     .footer {
         padding-top: 32px;
         padding-bottom: 32px;
@@ -102,10 +91,6 @@ p {
     
     .description-section {
         padding-inline: 15%;
-    }
-    
-    .description-section li {
-        line-height: 44px;
     }
     
     .footer {
