@@ -66,16 +66,16 @@
 				5235BE2F2A8A633A001D797B /* index.html */,
 				52210EED2B1201540081AE53 /* app */,
 				52210EEC2B1200DF0081AE53 /* css */,
-				5235BE332A8A6411001D797B /* images */,
+				5235BE332A8A6411001D797B /* assets */,
 			);
 			sourceTree = "<group>";
 		};
-		5235BE332A8A6411001D797B /* images */ = {
+		5235BE332A8A6411001D797B /* assets */ = {
 			isa = PBXGroup;
 			children = (
 				5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */,
 			);
-			path = images;
+			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
