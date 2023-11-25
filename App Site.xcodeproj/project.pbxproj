@@ -21,17 +21,33 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		52210EEC2B1200DF0081AE53 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				52210EEB2B11CE7C0081AE53 /* index.css */,
+				52CDE1992B0B34C800D3FCAD /* app.css */,
+				52CDE19A2B0B589600D3FCAD /* privacy.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		52210EED2B1201540081AE53 /* app */ = {
+			isa = PBXGroup;
+			children = (
+				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
+			);
+			path = app;
+			sourceTree = "<group>";
+		};
 		5235BE282A8A62AC001D797B = {
 			isa = PBXGroup;
 			children = (
 				523BB0F62AE7C3CF00E6CB78 /* NOTES */,
-				5235BE332A8A6411001D797B /* images */,
 				5235BE2F2A8A633A001D797B /* index.html */,
-				5298B2F12AE6BC12009698B1 /* aiwriter.html */,
 				5235BE302A8A633A001D797B /* privacy.html */,
-				52210EEB2B11CE7C0081AE53 /* index.css */,
-				52CDE1992B0B34C800D3FCAD /* app.css */,
-				52CDE19A2B0B589600D3FCAD /* privacy.css */,
+				52210EEC2B1200DF0081AE53 /* css */,
+				52210EED2B1201540081AE53 /* app */,
+				5235BE332A8A6411001D797B /* images */,
 			);
 			sourceTree = "<group>";
 		};
