@@ -22,11 +22,10 @@ h2 {
 }
 
 h3 {
-    color: #1D1D1F;
-    font-weight: bold;
+    color: #6E6E73;
+    font-weight: normal;
     font-size: 20px;
     line-height: 25px;
-    padding-bottom: 16px;
 }
 
 p {
