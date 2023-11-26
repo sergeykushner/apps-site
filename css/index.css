@@ -14,14 +14,14 @@ body {
 
 h1 {
     color: #1D1D1F;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 28;
     line-height: 34px;
 }
 
 h2 {
     color: #1D1D1F;
-    font-weight: normal;
+    font-weight: 600;
     font-size: 22px;
     line-height: 28px;
 
@@ -39,8 +39,8 @@ h2 {
     }
 
     .apps-section img {
-        padding-top: 5%;
-        width: 90%;
+        padding-top: 2.5%;
+        width: 95%;
     }
 
 }

@@ -5,30 +5,31 @@ body {
 
 h1 {
     color: #1D1D1F;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 28;
     line-height: 34px;
 }
 
 h2 {
     color: #1D1D1F;
-    font-weight: normal;
+    font-weight: 600;
     font-size: 22;
     line-height: 28px;
 }
 
 h3 {
     color: #6E6E73;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 20px;
     line-height: 25px;
 }
 
 p {
     color: #1D1D1F;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 17px;
     line-height: 22px;
+    padding-bottom: 16px;
 }
 
 a {
@@ -39,7 +40,7 @@ a {
 @media (orientation: portrait) {
     body {
         padding: 16px;
-        padding-bottom: 32px;
+        padding-bottom: 16px;
     }
 }
 
@@ -47,6 +48,6 @@ a {
     body {
         padding-inline: 15%;
         padding-top: 16px;
-        padding-bottom: 64px;
+        padding-bottom: 48px;
     }
 }
