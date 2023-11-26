@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     color: #1D1D1F;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 22;
     line-height: 28px;
 }
@@ -48,6 +48,6 @@ a {
     body {
         padding-inline: 15%;
         padding-top: 16px;
-        padding-bottom: 48px;
+        padding-bottom: 32px;
     }
 }
