@@ -10,6 +10,9 @@ body {
     display: inline-block;
     border-radius: 16px;
     overflow: hidden;
+}
+
+.apps-section a {
     text-decoration: none;
 }
 
