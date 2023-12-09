@@ -98,3 +98,13 @@ p {
         padding-inline: 15%;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #000000;
+    }
+    
+    h1, h2, h3, p {
+            color: #FFFFFF;
+    }
+}
