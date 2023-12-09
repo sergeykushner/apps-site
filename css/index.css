@@ -2,7 +2,6 @@ body {
     background: #F2F2F7;
     font-family: Arial;
     text-align: center;
-    color: #1D1D1F;
 }
 
 
@@ -21,12 +20,14 @@ h1 {
     font-weight: 700;
     font-size: 28;
     line-height: 34px;
+    color: #1D1D1F;
 }
 
 h2 {
     font-weight: 600;
     font-size: 22px;
     line-height: 28px;
+    color: #1D1D1F;
 }
 
 @media (orientation: portrait) {
@@ -67,7 +68,6 @@ h2 {
 @media (prefers-color-scheme: dark) {
     body {
         background: #000000;
-        color: #FFFFFF;
     }
     
     .apps-section {
