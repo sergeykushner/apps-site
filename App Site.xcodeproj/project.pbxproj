@@ -14,6 +14,9 @@
 		523BB0F62AE7C3CF00E6CB78 /* NOTES */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES; sourceTree = "<group>"; };
 		526FF96B2B110281004BA46F /* hero_screens_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group.png; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* app.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = app.html; sourceTree = "<group>"; };
+		52A4333F2B2427F5008588BA /* apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_touch_icon.png; sourceTree = "<group>"; };
+		52A433402B2427F5008588BA /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
+		52A433412B2427F5008588BA /* favicon_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon_icon.png; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
 		52CDE19A2B0B589600D3FCAD /* privacy.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = privacy.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +73,9 @@
 			isa = PBXGroup;
 			children = (
 				5209B21B2A97B1B4001DCF23 /* badge_download_on_the_app_store.svg */,
+				52A4333F2B2427F5008588BA /* apple_touch_icon.png */,
+				52A433412B2427F5008588BA /* favicon_icon.png */,
+				52A433402B2427F5008588BA /* open_graph_logo.png */,
 			);
 			path = assets;
 			sourceTree = "<group>";

@@ -2,6 +2,7 @@ body {
     background: #F2F2F7;
     font-family: Arial;
     text-align: center;
+    color: #1D1D1F;
 }
 
 
@@ -17,14 +18,12 @@ body {
 }
 
 h1 {
-    color: #1D1D1F;
     font-weight: 700;
     font-size: 28;
     line-height: 34px;
 }
 
 h2 {
-    color: #1D1D1F;
     font-weight: 600;
     font-size: 22px;
     line-height: 28px;
@@ -62,5 +61,16 @@ h2 {
     .apps-section img {
         padding-top: 5%;
         width: 90%;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #000000;
+        color: #FFFFFF;
+    }
+    
+    .apps-section {
+        background: #1C1C1E;
     }
 }
