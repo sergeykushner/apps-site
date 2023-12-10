@@ -13,9 +13,10 @@
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		526FF96B2B110281004BA46F /* hero_screens_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group.png; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* app.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = app.html; sourceTree = "<group>"; };
+		529E90852B25C721009E63E7 /* favicon_icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = favicon_icon.svg; sourceTree = "<group>"; };
 		52A4333F2B2427F5008588BA /* apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_touch_icon.png; sourceTree = "<group>"; };
 		52A433402B2427F5008588BA /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
-		52A433412B2427F5008588BA /* favicon_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon_icon.png; sourceTree = "<group>"; };
+		52A433412B2427F5008588BA /* favicon_icon_192w.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon_icon_192w.png; sourceTree = "<group>"; };
 		52A433422B244507008588BA /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		52A433432B244768008588BA /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
@@ -76,7 +77,8 @@
 			children = (
 				5209B21B2A97B1B4001DCF23 /* download_on_the_app_store_badge.svg */,
 				52A4333F2B2427F5008588BA /* apple_touch_icon.png */,
-				52A433412B2427F5008588BA /* favicon_icon.png */,
+				52A433412B2427F5008588BA /* favicon_icon_192w.png */,
+				529E90852B25C721009E63E7 /* favicon_icon.svg */,
 				52A433402B2427F5008588BA /* open_graph_logo.png */,
 			);
 			path = assets;
