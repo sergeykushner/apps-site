@@ -21,6 +21,7 @@
 		52A433422B244507008588BA /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		52A433432B244768008588BA /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
 		52A8AF142B2AC15A00DAAE5F /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		52A8AF152B2AC5F500DAAE5F /* app-ads.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "app-ads.txt"; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
 		52CDE19A2B0B589600D3FCAD /* privacy.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = privacy.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,6 +70,7 @@
 				52A433422B244507008588BA /* NOTES.md */,
 				5235BE2F2A8A633A001D797B /* index.html */,
 				52A8AF142B2AC15A00DAAE5F /* privacy.html */,
+				52A8AF152B2AC5F500DAAE5F /* app-ads.txt */,
 				52210EED2B1201540081AE53 /* app */,
 				52210EEC2B1200DF0081AE53 /* css */,
 				5235BE332A8A6411001D797B /* assets */,
