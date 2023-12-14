@@ -14,6 +14,9 @@ https://html-css-js.com
 https://playcode.io/new
 https://liveweave.com
 
+# Schema Markup Generator
+https://technicalseo.com
+
 ## Common text weight name mapping
 The numerical values 100 to 900 roughly correspond to the following common weight names (see the OpenType specification):
 
