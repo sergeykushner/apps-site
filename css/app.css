@@ -44,8 +44,8 @@ p {
 
 .footer {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: center;
 }
 
 .footer a {
@@ -54,6 +54,13 @@ p {
     font-size: 13px;
     line-height: 18px;
     text-decoration: none;
+    padding-right: 10px;
+    border-right: 1px solid #E5E5E5;
+    margin-right: 10px;
+}
+
+.footer a:last-child {
+    border-right: none;
 }
 
 @media (orientation: portrait) {
