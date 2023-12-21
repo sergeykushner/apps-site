@@ -78,4 +78,8 @@ h2 {
   h2 {
     color: #ffffff;
   }
+  
+  .apps-section img {
+      content: url('app/aiwriter/assets/hero_screens_group_dark.webp');
+    }
 }
