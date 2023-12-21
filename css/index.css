@@ -1,82 +1,81 @@
 body {
-    background: #F2F2F7;
-    font-family: -apple-system, Arial;
-    text-align: center;
+  background: #f2f2f7;
+  font-family: -apple-system, Arial;
+  text-align: center;
 }
 
-
 .apps-section {
-    background: #FFFFFF;
-    display: inline-block;
-    border-radius: 16px;
-    overflow: hidden;
+  background: #ffffff;
+  display: inline-block;
+  border-radius: 16px;
+  overflow: hidden;
 }
 
 .apps-section a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 h1 {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 34;
-    line-height: 41px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34;
+  line-height: 41px;
 }
 
 h2 {
-    font-style: normal;
-    font-weight: 600;
-    font-size: 28;
-    line-height: 34px;
-    color: #000000;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28;
+  line-height: 34px;
+  color: #000000;
 }
 
 @media (orientation: portrait) {
-    body {
-        padding: 16px;
-    }
+  body {
+    padding: 16px;
+  }
 
-    .apps-section {
-        width: 100%;
-        margin-top: 32px;
-        padding-bottom: 16px;
-    }
+  .apps-section {
+    width: 100%;
+    margin-top: 32px;
+    padding-bottom: 16px;
+  }
 
-    .apps-section img {
-        padding-top: 2.5%;
-        width: 95%;
-    }
-
+  .apps-section img {
+    padding-top: 2.5%;
+    width: 95%;
+  }
 }
 
 @media (orientation: landscape) {
-    body {
-        padding-top: 16px;
-        padding-bottom: 16px;
-    }
+  body {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
 
-    .apps-section {
-        width: 50%;
-        margin-top: 32px;
-        padding-bottom: 32px;
-    }
+  .apps-section {
+    width: 50%;
+    margin-top: 32px;
+    padding-bottom: 32px;
+  }
 
-    .apps-section img {
-        padding-top: 5%;
-        width: 90%;
-    }
+  .apps-section img {
+    padding-top: 5%;
+    width: 90%;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background: #000000;
-    }
-    
-    .apps-section {
-        background: #1C1C1E;
-    }
-    
-    h1, h2 {
-            color: #FFFFFF;
-    }
+  body {
+    background: #000000;
+  }
+
+  .apps-section {
+    background: #1c1c1e;
+  }
+
+  h1,
+  h2 {
+    color: #ffffff;
+  }
 }

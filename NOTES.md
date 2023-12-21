@@ -13,6 +13,8 @@ https://htmlbook.ru
 https://html-css-js.com
 https://playcode.io/new
 https://liveweave.com
+https://jsfiddle.net
+https://codepen.io
 
 # Schema Markup Generator
 https://technicalseo.com

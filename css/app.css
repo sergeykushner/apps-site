@@ -1,110 +1,104 @@
 body {
-    font-family: -apple-system, Arial;
-    text-align: center;
+  font-family: -apple-system, Arial;
+  text-align: center;
 }
 
 .hero-section img {
-    padding-bottom: 16px;
+  padding-bottom: 16px;
 }
 
 .hero-section a {
-    display: inline-block;
-    padding-top: 32px;
-    padding-bottom: 32px;
+  display: inline-block;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 h1 {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 34;
-    line-height: 41px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34;
+  line-height: 41px;
 }
 
 h2 {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 28;
-    line-height: 34px;
-}
-
-h4 {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 25px;
-    color: #8E8E93;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28;
+  line-height: 34px;
 }
 
 p {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 17px;
-    line-height: 1.5;
-    text-align: start;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.5;
+  text-align: start;
 }
 
 .footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 48px;
-    padding-bottom: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 48px;
+  padding-bottom: 32px;
 }
 
 .footer a {
-    color: #2A64C5;
-    font-weight: 300;
-    font-size: 13px;
-    line-height: 18px;
-    text-decoration: none;
-    padding-right: 10px;
-    border-right: 1px solid #E5E5E5;
-    margin-right: 10px;
+  color: #2a64c5;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 18px;
+  text-decoration: none;
+  padding-right: 10px;
+  border-right: 1px solid #e5e5e5;
+  margin-right: 10px;
 }
 
 .footer a:last-child {
-    border-right: none;
+  border-right: none;
 }
 
 @media (orientation: portrait) {
-    body {
-        padding: 16px;
-    }
+  body {
+    padding: 16px;
+  }
 
-    .hero-section img {
-        width: 100%;
-    }
+  .hero-section img {
+    width: 100%;
+  }
 
-    .hero-section a {
-        width: 50%;
-    }
+  .hero-section a {
+    width: 50%;
+  }
 }
 
 @media (orientation: landscape) {
-    body {
-        padding-top: 16px;
-        padding-bottom: 16px;
-    }
+  body {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
 
-    .hero-section img {
-        width: 55%;
-    }
+  .hero-section img {
+    width: 50%;
+  }
 
-    .hero-section a {
-        width: 20%;
-    }
- 
-    .description-section {
-        padding-inline: 15%;
-    }
+  .hero-section a {
+    width: 20%;
+  }
+
+  .description-section {
+    padding-inline: 15%;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background: #000000;
-    }
-    
-    h1, h2, p {
-            color: #FFFFFF;
-    }
+  body {
+    background: #000000;
+  }
+
+  h1,
+  h2,
+  p {
+    color: #ffffff;
+  }
 }
