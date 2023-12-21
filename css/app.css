@@ -44,13 +44,12 @@ p {
 }
 
 .footer a {
-  color: #2a64c5;
+  color: #007aff;
   font-weight: 300;
   font-size: 13px;
-  line-height: 18px;
   text-decoration: none;
   padding-right: 10px;
-  border-right: 1px solid #e5e5e5;
+  border-right: 1px solid #aeaeb2;
   margin-right: 10px;
 }
 
@@ -100,5 +99,10 @@ p {
   h2,
   p {
     color: #ffffff;
+  }
+
+  .footer a {
+    color: #0a84ff;
+    border-right: 1px solid #636366;
   }
 }

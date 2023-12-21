@@ -34,7 +34,7 @@ p {
 }
 
 a {
-  color: #2a64c5;
+  color: #007aff;
   text-decoration: none;
 }
 
@@ -62,5 +62,9 @@ a {
   h2,
   p {
     color: #ffffff;
+  }
+  
+  a {
+    color: #0a84ff;
   }
 }
