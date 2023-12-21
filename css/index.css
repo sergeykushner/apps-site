@@ -1,6 +1,6 @@
 body {
     background: #F2F2F7;
-    font-family: -apple-system, BlinkMacSystemFont, Arial;
+    font-family: -apple-system, Arial;
     text-align: center;
 }
 
@@ -20,12 +20,14 @@ h1 {
     font-style: normal;
     font-weight: 700;
     font-size: 28;
+    line-height: 34px;
 }
 
 h2 {
     font-style: normal;
     font-weight: 600;
     font-size: 22px;
+    line-height: 28px;
 }
 
 @media (orientation: portrait) {
