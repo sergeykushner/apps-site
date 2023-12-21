@@ -14,31 +14,27 @@ body {
 }
 
 h1 {
-    color: #1D1D1F;
+    font-style: normal;
     font-weight: 700;
     font-size: 28px;
-    line-height: 34px;
 }
 
 h2 {
-    color: #1D1D1F;
+    font-style: normal;
     font-weight: 400;
     font-size: 22px;
-    line-height: 28px;
 }
 
 h3 {
-    color: #6E6E73;
+    font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 25px;
 }
 
 p {
-    color: #1D1D1F;
+    font-style: normal;
     font-weight: 400;
     font-size: 17px;
-    line-height: 22px;
     text-align: start;
 }
 
@@ -55,7 +51,7 @@ p {
     line-height: 18px;
     text-decoration: none;
     padding-right: 10px;
-    border-right: 1px solid #E5E5E5;
+    border-right: 1px solid #8E8E93;
     margin-right: 10px;
 }
 
