@@ -1,6 +1,7 @@
 body {
   font-family: -apple-system, Arial;
   text-align: start;
+  padding-bottom: 8px;
 }
 
 h1 {
@@ -15,7 +16,6 @@ h2 {
   font-weight: 600;
   font-size: 28;
   line-height: 34px;
-  padding-top: 16px;
 }
 
 h5 {
@@ -23,7 +23,8 @@ h5 {
   font-weight: 600;
   font-size: 17px;
   line-height: 22px;
-  color: #8e8e93;
+  color: #3C3C43;
+  opacity: 0.6;
 }
 
 p {
@@ -31,6 +32,7 @@ p {
   font-weight: 400;
   font-size: 17px;
   line-height: 1.5;
+  padding-bottom: 24px;
 }
 
 a {
@@ -41,7 +43,6 @@ a {
 @media (orientation: portrait) {
   body {
     padding: 16px;
-    padding-bottom: 32px;
   }
 }
 
@@ -49,7 +50,6 @@ a {
   body {
     padding-inline: 15%;
     padding-top: 16px;
-    padding-bottom: 32px;
   }
 }
 
