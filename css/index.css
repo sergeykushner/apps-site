@@ -19,15 +19,15 @@ body {
 h1 {
     font-style: normal;
     font-weight: 700;
-    font-size: 28;
-    line-height: 34px;
+    font-size: 34;
+    line-height: 41px;
 }
 
 h2 {
     font-style: normal;
     font-weight: 600;
-    font-size: 22px;
-    line-height: 28px;
+    font-size: 28;
+    line-height: 34px;
 }
 
 @media (orientation: portrait) {
@@ -51,6 +51,7 @@ h2 {
 @media (orientation: landscape) {
     body {
         padding-top: 16px;
+        padding-bottom: 16px;
     }
 
     .apps-section {
