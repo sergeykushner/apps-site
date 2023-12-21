@@ -48,7 +48,7 @@ a {
 
 @media (orientation: landscape) {
   body {
-    padding-inline: 15%;
+    padding-inline: 25%;
     padding-top: 16px;
   }
 }

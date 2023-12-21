@@ -82,11 +82,11 @@ p {
   }
 
   .hero-section a {
-    width: 30%;
+    width: 25%;
   }
 
   .description-section {
-    padding-inline: 15%;
+    padding-inline: 25%;
   }
 }
 
