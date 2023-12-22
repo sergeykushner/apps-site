@@ -22,16 +22,30 @@ h1 {
 
 h2 {
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 28;
   line-height: 34px;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22;
+  line-height: 28px;
+}
+
+h4 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20;
+  line-height: 25px;
 }
 
 p {
   font-style: normal;
   font-weight: 400;
-  font-size: 17px;
-  line-height: 1.5;
+  font-size: 17;
+  line-height: 22px;
   text-align: start;
 }
 
@@ -88,6 +102,11 @@ p {
   .description-section {
     padding-inline: 25%;
   }
+  
+  p {
+    font-weight: 300;
+    line-height: 1.5;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -97,6 +116,8 @@ p {
 
   h1,
   h2,
+  h3,
+  h4,
   p {
     color: #ffffff;
   }

@@ -8,6 +8,7 @@ https://github.com/sergeykushner/app-site
 https://developer.mozilla.org/en-US/
 https://snipp.ru
 https://htmlbook.ru
+https://cssdb.org
 
 # Site code online
 https://html-css-js.com
