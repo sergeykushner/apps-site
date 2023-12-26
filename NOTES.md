@@ -1,8 +1,8 @@
 # Site
-https://sergeykushner.github.io/app-site/
+https://sergeykushner.github.io/apps-site/
 
 # GitHub repository
-https://github.com/sergeykushner/app-site
+https://github.com/sergeykushner/apps-site
 
 # Documentation and manuals
 https://developer.mozilla.org/en-US/
