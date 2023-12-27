@@ -4,24 +4,24 @@ body {
 }
 
 .hero-section {
-  padding-bottom: 16px;
+  padding-bottom: 10px;
 }
 
 .hero-section img {
-  padding-bottom: 16px;
+  padding-bottom: 10px;
 }
 
 .hero-section a {
   display: inline-block;
-  padding-top: 32px;
+  padding-top: 20px;
 }
 
 .footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 48px;
-  padding-bottom: 32px;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .footer a {
@@ -76,7 +76,7 @@ p {
 
 @media (orientation: portrait) {
   body {
-    padding: 16px;
+    padding: 10px;
   }
 
   .hero-section img {
@@ -90,8 +90,8 @@ p {
 
 @media (orientation: landscape) {
   body {
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   .hero-section img {
