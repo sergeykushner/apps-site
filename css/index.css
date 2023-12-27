@@ -7,7 +7,7 @@ body {
 .apps-section {
   background: #ffffff;
   display: inline-block;
-  border-radius: 16px;
+  border-radius: 10px;
   overflow: hidden;
 }
 
@@ -32,13 +32,13 @@ h2 {
 
 @media (orientation: portrait) {
   body {
-    padding: 16px;
+    padding: 10px;
   }
 
   .apps-section {
     width: 100%;
-    margin-top: 32px;
-    padding-bottom: 16px;
+    margin-top: 20px;
+    padding-bottom: 10px;
   }
 
   .apps-section img {
@@ -49,14 +49,14 @@ h2 {
 
 @media (orientation: landscape) {
   body {
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   .apps-section {
     width: 50%;
-    margin-top: 32px;
-    padding-bottom: 32px;
+    margin-top: 20px;
+    padding-bottom: 20px;
   }
 
   .apps-section img {

@@ -20,10 +20,10 @@ https://codepen.io
 # Schema Markup Generator
 https://technicalseo.com
 
-## Common text weight name mapping
-The numerical values 100 to 900 roughly correspond to the following common weight names (see the OpenType specification):
+# Syntax
 
-### Value    Common weight name
+### Font
+
 100    Thin (Hairline)
 200    Extra Light (Ultra Light)
 300    Light

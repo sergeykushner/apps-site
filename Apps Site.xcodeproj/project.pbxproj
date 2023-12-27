@@ -69,14 +69,14 @@
 		5235BE282A8A62AC001D797B = {
 			isa = PBXGroup;
 			children = (
-				52A433422B244507008588BA /* NOTES.md */,
 				5235BE2F2A8A633A001D797B /* index.html */,
 				52A8AF142B2AC15A00DAAE5F /* privacy.html */,
 				52020B2D2B36DE2100F104D2 /* aiwriter.html */,
-				52A8AF152B2AC5F500DAAE5F /* app-ads.txt */,
 				52210EED2B1201540081AE53 /* app */,
 				52210EEC2B1200DF0081AE53 /* css */,
 				5235BE332A8A6411001D797B /* assets */,
+				52A8AF152B2AC5F500DAAE5F /* app-ads.txt */,
+				52A433422B244507008588BA /* NOTES.md */,
 			);
 			sourceTree = "<group>";
 		};
