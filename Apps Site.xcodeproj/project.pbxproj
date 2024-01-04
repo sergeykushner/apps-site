@@ -26,6 +26,7 @@
 		52CDE1992B0B34C800D3FCAD /* app.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
 		52CDE19A2B0B589600D3FCAD /* privacy.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = privacy.css; sourceTree = "<group>"; };
 		52D0C7022B348EB20097D533 /* hero_screens_group_dark.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group_dark.webp; sourceTree = "<group>"; };
+		52F7FFFE2B46975100C69159 /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -60,6 +61,7 @@
 		52210EEF2B1215A50081AE53 /* assets */ = {
 			isa = PBXGroup;
 			children = (
+				52F7FFFE2B46975100C69159 /* open_graph_logo.png */,
 				52A433432B244768008588BA /* hero_screens_group.webp */,
 				52D0C7022B348EB20097D533 /* hero_screens_group_dark.webp */,
 			);
