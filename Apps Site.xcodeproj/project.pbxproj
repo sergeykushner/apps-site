@@ -16,7 +16,6 @@
 		529E90862B25CA4C009E63E7 /* favicon_icon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon_icon.ico; sourceTree = "<group>"; };
 		52A4333F2B2427F5008588BA /* apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_touch_icon.png; sourceTree = "<group>"; };
 		52A433402B2427F5008588BA /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
-		52A433412B2427F5008588BA /* favicon_icon_192x192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon_icon_192x192.png; sourceTree = "<group>"; };
 		52A433422B244507008588BA /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		52A433432B244768008588BA /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
 		52A8AF142B2AC15A00DAAE5F /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
@@ -87,7 +86,6 @@
 			children = (
 				529E90852B25C721009E63E7 /* favicon_icon.svg */,
 				529E90862B25CA4C009E63E7 /* favicon_icon.ico */,
-				52A433412B2427F5008588BA /* favicon_icon_192x192.png */,
 				52A4333F2B2427F5008588BA /* apple_touch_icon.png */,
 				52A433402B2427F5008588BA /* open_graph_logo.png */,
 				52C734F82B354A0B00878863 /* download_on_the_app_store_badge_black.svg */,
