@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="2048px" height="2048px" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>favicon_icon</title>
-    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="2048" height="2048" rx="1024"></rect>
-        <rect id="Rectangle" fill="#000000" x="512" y="512" width="1024" height="1024" rx="230"></rect>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <rect stroke="#000000" fill="#FFFFFF" x="0" y="0" width="1024" height="1024" rx="512"></rect>
+            <rect fill="#000000" x="256.5" y="256" width="512" height="512" rx="115"></rect>
+        </g>
     </g>
 </svg>
