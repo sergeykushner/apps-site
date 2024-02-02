@@ -18,6 +18,7 @@
 		52A433422B244507008588BA /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		52A433432B244768008588BA /* hero_screens_group.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = hero_screens_group.webp; sourceTree = "<group>"; };
 		52A8AF152B2AC5F500DAAE5F /* app-ads.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "app-ads.txt"; sourceTree = "<group>"; };
+		52B7EF522B6CA92200153939 /* sitemap.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = sitemap.xml; sourceTree = "<group>"; };
 		52C734F82B354A0B00878863 /* download_on_the_app_store_badge_black.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = download_on_the_app_store_badge_black.svg; sourceTree = "<group>"; };
 		52C734F92B354A0B00878863 /* download_on_the_app_store_badge_white.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = download_on_the_app_store_badge_white.svg; sourceTree = "<group>"; };
 		52CDE1992B0B34C800D3FCAD /* app.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 				52210EED2B1201540081AE53 /* app */,
 				52210EEC2B1200DF0081AE53 /* css */,
 				5235BE332A8A6411001D797B /* assets */,
+				52B7EF522B6CA92200153939 /* sitemap.xml */,
 				52A8AF152B2AC5F500DAAE5F /* app-ads.txt */,
 				52A433422B244507008588BA /* NOTES.md */,
 			);
