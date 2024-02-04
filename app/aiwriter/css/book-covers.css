@@ -1,0 +1,34 @@
+@media (orientation: portrait) {
+  .book-covers-section {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .book-covers-section a {
+    margin-right: 10px;
+  }
+
+  .book-covers-section img {
+    height: 200px;
+    width: auto;
+  }
+}
+
+@media (orientation: landscape) {
+  .book-covers-section {
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+
+  .book-covers-section a {
+    margin-right: 10px;
+  }
+
+  .book-covers-section img {
+    height: 200px;
+    width: auto;
+  }
+}

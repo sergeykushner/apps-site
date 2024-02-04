@@ -86,10 +86,6 @@ p {
   .hero-section a {
     width: 50%;
   }
-  
-  .book-covers-section img {
-      width: 25%;
-  }
 }
 
 @media (orientation: landscape) {
@@ -113,10 +109,6 @@ p {
   p {
     font-weight: 300;
     line-height: 1.5;
-  }
-  
-  .book-covers-section img {
-      width: 15%;
   }
 }
 
