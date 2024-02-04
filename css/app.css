@@ -16,18 +16,6 @@ body {
   padding-top: 20px;
 }
 
-.book-covers-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 30px;
-    padding-bottom: 20px;
-}
-
-.book-covers-section img {
-    width: 10%;
-}
-
 .footer {
   display: flex;
   align-items: center;
@@ -98,6 +86,10 @@ p {
   .hero-section a {
     width: 50%;
   }
+  
+  .book-covers-section img {
+      width: 50%;
+  }
 }
 
 @media (orientation: landscape) {
@@ -121,6 +113,10 @@ p {
   p {
     font-weight: 300;
     line-height: 1.5;
+  }
+  
+  .book-covers-section img {
+      width: 25%;
   }
 }
 
