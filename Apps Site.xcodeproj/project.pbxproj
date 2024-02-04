@@ -12,6 +12,7 @@
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		527CA3D92B6F70E100C23E74 /* 1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 1.html; sourceTree = "<group>"; };
 		527CA3DB2B6F759200C23E74 /* story_any_style.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = story_any_style.png; sourceTree = "<group>"; };
+		527CA3DD2B6F77B200C23E74 /* aiwriter-generated-text.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "aiwriter-generated-text.css"; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* app.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = app.html; sourceTree = "<group>"; };
 		529E90852B25C721009E63E7 /* favicon_icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = favicon_icon.svg; sourceTree = "<group>"; };
 		529E90862B25CA4C009E63E7 /* favicon_icon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon_icon.ico; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				52210EEB2B11CE7C0081AE53 /* index.css */,
+				527CA3DD2B6F77B200C23E74 /* aiwriter-generated-text.css */,
 				52CDE1992B0B34C800D3FCAD /* app.css */,
 				52CDE19A2B0B589600D3FCAD /* privacy.css */,
 			);
