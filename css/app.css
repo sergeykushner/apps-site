@@ -16,6 +16,18 @@ body {
   padding-top: 20px;
 }
 
+.book-covers-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.book-covers-section img {
+    width: 10%;
+}
+
 .footer {
   display: flex;
   align-items: center;
