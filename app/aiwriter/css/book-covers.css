@@ -2,6 +2,7 @@
   .book-covers-section {
     overflow-x: auto;
     white-space: nowrap;
+    padding-top: 30px;
   }
 
   .book-covers-section a {
