@@ -11,17 +11,21 @@
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		527CA3D92B6F70E100C23E74 /* 1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 1.html; sourceTree = "<group>"; };
-		527CA3DB2B6F759200C23E74 /* story_any_style.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = story_any_style.png; sourceTree = "<group>"; };
 		527CA3DD2B6F77B200C23E74 /* generated-text.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "generated-text.css"; sourceTree = "<group>"; };
-		527CA3DF2B6F844500C23E74 /* story_comedy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = story_comedy.png; sourceTree = "<group>"; };
-		527CA3E02B6F844500C23E74 /* song_any_style.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = song_any_style.png; sourceTree = "<group>"; };
-		527CA3E12B6F844500C23E74 /* story_horror.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = story_horror.png; sourceTree = "<group>"; };
-		527CA3E22B6F844500C23E74 /* poem_any_style.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poem_any_style.png; sourceTree = "<group>"; };
 		527CA3E32B6F92BE00C23E74 /* book-covers.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "book-covers.css"; sourceTree = "<group>"; };
 		527CA3E42B6FAB0200C23E74 /* 2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 2.html; sourceTree = "<group>"; };
 		527CA3E52B6FAB0200C23E74 /* 5.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 5.html; sourceTree = "<group>"; };
 		527CA3E62B6FAB0200C23E74 /* 4.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 4.html; sourceTree = "<group>"; };
 		527CA3E72B6FAB0200C23E74 /* 3.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 3.html; sourceTree = "<group>"; };
+		528B60F22B70B54C0090DDED /* story_comedy@0.5x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_comedy@0.5x.png"; sourceTree = "<group>"; };
+		528B60F32B70B54C0090DDED /* story_horror@0.5x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_horror@0.5x.png"; sourceTree = "<group>"; };
+		528B60F42B70B54C0090DDED /* story_any_style@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_any_style@1x.png"; sourceTree = "<group>"; };
+		528B60F52B70B54C0090DDED /* story_any_style@0.5x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_any_style@0.5x.png"; sourceTree = "<group>"; };
+		528B60F62B70B54C0090DDED /* poem_any_style@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poem_any_style@1x.png"; sourceTree = "<group>"; };
+		528B60F72B70B54D0090DDED /* story_comedy@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_comedy@1x.png"; sourceTree = "<group>"; };
+		528B60F82B70B54D0090DDED /* story_horror@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "story_horror@1x.png"; sourceTree = "<group>"; };
+		528B60F92B70B54D0090DDED /* poem_any_style@0.5x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poem_any_style@0.5x.png"; sourceTree = "<group>"; };
+		528B60FA2B70B54D0090DDED /* song_any_style@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "song_any_style@1x.png"; sourceTree = "<group>"; };
 		5298B2F12AE6BC12009698B1 /* app.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = app.html; sourceTree = "<group>"; };
 		529E90852B25C721009E63E7 /* favicon_icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = favicon_icon.svg; sourceTree = "<group>"; };
 		529E90862B25CA4C009E63E7 /* favicon_icon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon_icon.ico; sourceTree = "<group>"; };
@@ -128,11 +132,15 @@
 		527CA3DC2B6F75A800C23E74 /* book-cover */ = {
 			isa = PBXGroup;
 			children = (
-				527CA3E22B6F844500C23E74 /* poem_any_style.png */,
-				527CA3E02B6F844500C23E74 /* song_any_style.png */,
-				527CA3DF2B6F844500C23E74 /* story_comedy.png */,
-				527CA3E12B6F844500C23E74 /* story_horror.png */,
-				527CA3DB2B6F759200C23E74 /* story_any_style.png */,
+				528B60F92B70B54D0090DDED /* poem_any_style@0.5x.png */,
+				528B60F62B70B54C0090DDED /* poem_any_style@1x.png */,
+				528B60FA2B70B54D0090DDED /* song_any_style@1x.png */,
+				528B60F52B70B54C0090DDED /* story_any_style@0.5x.png */,
+				528B60F42B70B54C0090DDED /* story_any_style@1x.png */,
+				528B60F22B70B54C0090DDED /* story_comedy@0.5x.png */,
+				528B60F72B70B54D0090DDED /* story_comedy@1x.png */,
+				528B60F32B70B54C0090DDED /* story_horror@0.5x.png */,
+				528B60F82B70B54D0090DDED /* story_horror@1x.png */,
 			);
 			path = "book-cover";
 			sourceTree = "<group>";
