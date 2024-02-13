@@ -73,8 +73,6 @@ p {
   font-size: 17px;
   line-height: 22px;
   text-align: start;
-  color: #3c3c43;
-  opacity: 0.6;
 }
 
 @media (orientation: portrait) {
