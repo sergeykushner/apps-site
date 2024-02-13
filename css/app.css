@@ -65,6 +65,9 @@ h4 {
   font-weight: 500;
   font-size: 20px;
   line-height: 25px;
+  text-align: start;
+  color: #3c3c43;
+  opacity: 0.6;
 }
 
 p {
