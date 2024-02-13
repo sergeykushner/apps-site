@@ -1,7 +1,21 @@
 body {
+  background: #f2f2f7;
   font-family: -apple-system, Arial;
   text-align: start;
   padding-bottom: 5px;
+}
+
+.header {
+  padding-inline: 20px;
+}
+
+.section {
+  background: #ffffff;
+  display: inline-block;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-inline: 20px;
+  margin-top: 15px;
 }
 
 h1 {
@@ -32,7 +46,6 @@ p {
   font-weight: 400;
   font-size: 17px;
   line-height: 22px;
-  padding-bottom: 15px;
 }
 
 a {
