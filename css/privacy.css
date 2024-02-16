@@ -76,6 +76,10 @@ a {
   body {
     background: #000000;
   }
+  
+  .description-section-card {
+    background: #1c1c1e;
+  }
 
   h1,
   h2,
