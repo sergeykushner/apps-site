@@ -1,5 +1,4 @@
 body {
-  background: #f2f2f7;
   font-family: -apple-system, Arial;
   text-align: start;
   padding-bottom: 5px;
@@ -10,7 +9,7 @@ body {
 }
 
 .section {
-  background: #ffffff;
+  background: #fafaff;
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -78,7 +77,7 @@ a {
   }
   
   .section {
-    background: #1c1c1e;
+    background: #fafafa20;
   }
 
   h1,
