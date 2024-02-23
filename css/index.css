@@ -9,6 +9,13 @@ body {
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.apps-section img {
+  width: 90%;
+  padding-top: 5%;
 }
 
 .apps-section a {
@@ -34,17 +41,6 @@ h2 {
   body {
     padding: 10px;
   }
-
-  .apps-section {
-    width: 100%;
-    margin-top: 20px;
-    padding-bottom: 10px;
-  }
-
-  .apps-section img {
-    padding-top: 2.5%;
-    width: 95%;
-  }
 }
 
 @media (orientation: landscape) {
@@ -55,13 +51,6 @@ h2 {
 
   .apps-section {
     width: 50%;
-    margin-top: 20px;
-    padding-bottom: 20px;
-  }
-
-  .apps-section img {
-    padding-top: 5%;
-    width: 90%;
   }
 }
 
