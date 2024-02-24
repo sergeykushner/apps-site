@@ -16,9 +16,9 @@
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		5246B8522B8A039900B4CCA5 /* app.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = app.html; sourceTree = "<group>"; };
 		5246B8532B8A03A000B4CCA5 /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
-		5246B8542B8A03A900B4CCA5 /* hero_screens_group_dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group_dark.png; sourceTree = "<group>"; };
-		5246B8552B8A03A900B4CCA5 /* hero_screens_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group.png; sourceTree = "<group>"; };
-		5246B8562B8A03A900B4CCA5 /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
+		5246B8592B8A058000B4CCA5 /* hero_screens_group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group.png; sourceTree = "<group>"; };
+		5246B85A2B8A058000B4CCA5 /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
+		5246B85B2B8A058000B4CCA5 /* hero_screens_group_dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero_screens_group_dark.png; sourceTree = "<group>"; };
 		527CA3D92B6F70E100C23E74 /* 1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 1.html; sourceTree = "<group>"; };
 		527CA3DD2B6F77B200C23E74 /* generated-text.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "generated-text.css"; sourceTree = "<group>"; };
 		527CA3E32B6F92BE00C23E74 /* book-covers.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "book-covers.css"; sourceTree = "<group>"; };
@@ -136,9 +136,9 @@
 		5246B8582B8A03CE00B4CCA5 /* assets */ = {
 			isa = PBXGroup;
 			children = (
-				5246B8542B8A03A900B4CCA5 /* hero_screens_group_dark.png */,
-				5246B8552B8A03A900B4CCA5 /* hero_screens_group.png */,
-				5246B8562B8A03A900B4CCA5 /* open_graph_logo.png */,
+				5246B85B2B8A058000B4CCA5 /* hero_screens_group_dark.png */,
+				5246B8592B8A058000B4CCA5 /* hero_screens_group.png */,
+				5246B85A2B8A058000B4CCA5 /* open_graph_logo.png */,
 			);
 			path = assets;
 			sourceTree = "<group>";
