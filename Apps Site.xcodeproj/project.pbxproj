@@ -14,6 +14,7 @@
 		52210EEB2B11CE7C0081AE53 /* index.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = index.css; sourceTree = "<group>"; };
 		5235BE2F2A8A633A001D797B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		5235BE302A8A633A001D797B /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		5246B8512B89FBB800B4CCA5 /* birthdays */ = {isa = PBXFileReference; lastKnownFileType = folder; path = birthdays; sourceTree = "<group>"; };
 		527CA3D92B6F70E100C23E74 /* 1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 1.html; sourceTree = "<group>"; };
 		527CA3DD2B6F77B200C23E74 /* generated-text.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "generated-text.css"; sourceTree = "<group>"; };
 		527CA3E32B6F92BE00C23E74 /* book-covers.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "book-covers.css"; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 			children = (
 				52B7EF592B6CAD7F00153939 /* assets */,
 				52210EEE2B1212E00081AE53 /* aiwriter */,
+				5246B8512B89FBB800B4CCA5 /* birthdays */,
 			);
 			path = app;
 			sourceTree = "<group>";
