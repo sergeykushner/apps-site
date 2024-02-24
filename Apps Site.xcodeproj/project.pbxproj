@@ -131,8 +131,16 @@
 				5246B85B2B8A058000B4CCA5 /* hero_screens_group_dark.png */,
 				5246B8592B8A058000B4CCA5 /* hero_screens_group.png */,
 				5246B85A2B8A058000B4CCA5 /* open_graph_logo.png */,
+				5246B85D2B8A066700B4CCA5 /* assets */,
 			);
 			path = birthdays;
+			sourceTree = "<group>";
+		};
+		5246B85D2B8A066700B4CCA5 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 		527CA3DA2B6F70EA00C23E74 /* texts */ = {
