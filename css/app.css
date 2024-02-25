@@ -115,7 +115,12 @@ p {
   .description-section {
     padding-inline: 25%;
   }
-  
+
+  .footer {
+    padding-top: 70px;
+    padding-bottom: 50px;
+  }
+
   p {
     font-weight: 300;
     line-height: 1.5;
@@ -126,7 +131,7 @@ p {
   body {
     background: #000000;
   }
-  
+
   .description-section-card {
     background: #fafafa20;
   }
