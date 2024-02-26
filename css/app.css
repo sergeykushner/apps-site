@@ -142,7 +142,8 @@ p {
   }
 
   .description-section-card {
-    background: #fafafa20;
+    background: #fafafa;
+    opacity: 0.2;
   }
 
   h1,

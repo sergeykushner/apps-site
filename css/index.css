@@ -58,7 +58,8 @@ h2 {
   }
 
   .apps-section {
-    background: #fafafa20;
+    background: #fafafa;
+    opacity: 0.2;
   }
 
   h1,
