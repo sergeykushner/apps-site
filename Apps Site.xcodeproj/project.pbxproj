@@ -40,7 +40,6 @@
 		529E90862B25CA4C009E63E7 /* favicon_icon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon_icon.ico; sourceTree = "<group>"; };
 		52A4333F2B2427F5008588BA /* apple_touch_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_touch_icon.png; sourceTree = "<group>"; };
 		52A433402B2427F5008588BA /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
-		52A433422B244507008588BA /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		52A8AF152B2AC5F500DAAE5F /* app-ads.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "app-ads.txt"; sourceTree = "<group>"; };
 		52B7EF522B6CA92200153939 /* sitemap.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = sitemap.xml; sourceTree = "<group>"; };
 		52B7EF532B6CAD6200153939 /* open_graph_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_graph_logo.png; sourceTree = "<group>"; };
@@ -106,7 +105,6 @@
 				5235BE332A8A6411001D797B /* assets */,
 				52B7EF522B6CA92200153939 /* sitemap.xml */,
 				52A8AF152B2AC5F500DAAE5F /* app-ads.txt */,
-				52A433422B244507008588BA /* NOTES.md */,
 			);
 			sourceTree = "<group>";
 		};

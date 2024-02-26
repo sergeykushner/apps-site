@@ -76,6 +76,15 @@ h4 {
   text-align: start;
 }
 
+h5 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 22px;
+  color: #3c3c43;
+  opacity: 0.6;
+}
+
 p {
   font-style: normal;
   font-weight: 400;
