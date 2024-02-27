@@ -1,4 +1,5 @@
 body {
+  background: #fafaff;
   font-family: -apple-system, Arial;
   text-align: center;
 }
@@ -17,7 +18,7 @@ body {
 }
 
 .description-section-card {
-  background: #fafaff;
+  background: #ffffff;
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -142,7 +143,7 @@ p {
   }
 
   .description-section-card {
-    background: #fafafa20;
+    background: #2c2c2e;
   }
 
   h1,
