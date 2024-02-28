@@ -1,5 +1,4 @@
 body {
-  background: #ffffff;
   font-family: system-ui;
   text-align: center;
 }
@@ -17,8 +16,7 @@ body {
   padding-top: 20px;
 }
 
-.description-section-card {
-  background: #f2f2f7;
+.description-group {
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -82,8 +80,6 @@ h5 {
   font-weight: 500;
   font-size: 17px;
   line-height: 22px;
-  color: #3c3c43;
-  opacity: 0.6;
 }
 
 p {
@@ -138,26 +134,6 @@ p {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
-    background: #000000;
-  }
-
-  .description-section-card {
-    background: #1c1c1e;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  p {
-    color: #ffffff;
-  }
-  
-  h5 {
-    color: #ebebf5;
-  }
-
   .footer a {
     color: #0a84ff;
     border-right: 1px solid #636366;

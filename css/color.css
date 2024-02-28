@@ -16,7 +16,8 @@ h5 {
         background: #ffffff;
     }
     
-    .apps-section {
+    .index-app-group,
+    .app-description-group {
         background: #f6f6f684;
     }
 }
@@ -26,7 +27,8 @@ h5 {
         background: #f2f2f7;
     }
     
-    .apps-section {
+    .index-app-group,
+    .app-description-group {
         background: #ffffff;
     }
 }
@@ -37,7 +39,8 @@ h5 {
             background: #000000;
         }
         
-        .apps-section {
+        .index-app-group,
+        .app-description-group {
             background: #28282880;
         }
     }
@@ -47,7 +50,8 @@ h5 {
             background: #000000;
         }
         
-        .apps-section {
+        .index-app-group,
+        .app-description-group {
             background: #1c1c1e;
         }
     }

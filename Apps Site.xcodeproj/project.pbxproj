@@ -58,9 +58,9 @@
 			isa = PBXGroup;
 			children = (
 				52210EEB2B11CE7C0081AE53 /* index.css */,
-				52DD5F742B8F28EF00069969 /* color.css */,
 				52CDE1992B0B34C800D3FCAD /* app.css */,
 				52CDE19A2B0B589600D3FCAD /* privacy.css */,
+				52DD5F742B8F28EF00069969 /* color.css */,
 			);
 			path = css;
 			sourceTree = "<group>";
