@@ -61,12 +61,12 @@
 			isa = PBXGroup;
 			children = (
 				52DD5F762B8F3B3300069969 /* body.css */,
-				52210EEB2B11CE7C0081AE53 /* index.css */,
-				52CDE1992B0B34C800D3FCAD /* app.css */,
 				52DD5F782B8F46A000069969 /* footer.css */,
-				52CDE19A2B0B589600D3FCAD /* privacy.css */,
 				52DD5F752B8F352500069969 /* font.css */,
 				52DD5F742B8F28EF00069969 /* color.css */,
+				52210EEB2B11CE7C0081AE53 /* index.css */,
+				52CDE1992B0B34C800D3FCAD /* app.css */,
+				52CDE19A2B0B589600D3FCAD /* privacy.css */,
 			);
 			path = css;
 			sourceTree = "<group>";

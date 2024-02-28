@@ -15,24 +15,10 @@ body {
   padding-top: 20px;
 }
 
-@media (orientation: portrait) {
-  .hero-section img {
-    width: 50%;
-  }
-
-  .hero-section a {
-    width: 100%;
-  }
-}
-
 @media (orientation: landscape) {
-  body {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
 
   .hero-section img {
-    width: 25%;
+    width: 10%;
   }
 
   .hero-section a {
@@ -41,5 +27,15 @@ body {
 
   .description-section {
     padding-inline: 25%;
+  }
+}
+
+@media (orientation: portrait) {
+  .hero-section img {
+    width: 50%;
+  }
+
+  .hero-section a {
+    width: 100%;
   }
 }
