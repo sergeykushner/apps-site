@@ -1,11 +1,11 @@
 body {
-  background: #fafaff;
-  font-family: -apple-system, Arial;
+  background: #ffffff;
+  font-family: system-ui;
   text-align: center;
 }
 
 .apps-section {
-  background: #ffffff;
+  background: #fafaf7;
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -58,7 +58,7 @@ h2 {
   }
 
   .apps-section {
-    background: #2c2c2e;
+    background: #1c1c1e;
   }
 
   h1,
