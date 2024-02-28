@@ -1,5 +1,4 @@
 body {
-  background: #ffffff;
   font-family: system-ui;
   text-align: start;
   padding-bottom: 5px;
@@ -9,8 +8,7 @@ body {
   padding-inline: 20px;
 }
 
-.section {
-  background: #f2f2f7;
+.privacy-section-group {
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -37,8 +35,6 @@ h5 {
   font-weight: 500;
   font-size: 17px;
   line-height: 22px;
-  color: #3c3c43;
-  opacity: 0.6;
 }
 
 p {
@@ -69,29 +65,5 @@ a {
   p {
     font-weight: 300;
     line-height: 1.5;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #000000;
-  }
-  
-  .section {
-    background: #1c1c1e;
-  }
-
-  h1,
-  h2,
-  p {
-    color: #ffffff;
-  }
-
-  h5 {
-    color: #ebebf5;
-  }
-
-  a {
-    color: #0a84ff;
   }
 }

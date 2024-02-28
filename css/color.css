@@ -17,7 +17,8 @@ h5 {
     }
     
     .index-app-group,
-    .app-description-group {
+    .app-description-group,
+    .privacy-section-group {
         background: #f6f6f684;
     }
 }
@@ -28,7 +29,8 @@ h5 {
     }
     
     .index-app-group,
-    .app-description-group {
+    .app-description-group,
+    .privacy-section-group {
         background: #ffffff;
     }
 }
@@ -40,7 +42,8 @@ h5 {
         }
         
         .index-app-group,
-        .app-description-group {
+        .app-description-group,
+        .privacy-section-group {
             background: #28282880;
         }
     }
@@ -51,7 +54,8 @@ h5 {
         }
         
         .index-app-group,
-        .app-description-group {
+        .app-description-group,
+        .privacy-section-group {
             background: #1c1c1e;
         }
     }
