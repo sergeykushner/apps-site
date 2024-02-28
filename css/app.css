@@ -16,7 +16,7 @@ body {
   padding-top: 20px;
 }
 
-.description-group {
+.app-description-group {
   display: inline-block;
   border-radius: 10px;
   overflow: hidden;
@@ -118,7 +118,7 @@ p {
     width: 25%;
   }
 
-  .description-section {
+  .app-description-group {
     padding-inline: 25%;
   }
 
