@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-.group {
+.index-app-group {
     display: inline-block;
     border-radius: 10px;
     overflow: hidden;
@@ -11,12 +11,12 @@ body {
     padding-bottom: 10px;
 }
 
-.group img {
+.index-app-group img {
     width: 90%;
     padding-top: 5%;
 }
 
-.agroup a {
+.index-app-group a {
     text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ h2 {
         padding-bottom: 50px;
     }
     
-    .group {
+    .index-app-group {
         width: 50%;
     }
 }
