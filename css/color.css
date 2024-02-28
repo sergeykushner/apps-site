@@ -1,0 +1,66 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #000000;
+}
+
+h5 {
+    color: #3c3c43;
+    opacity: 0.6;
+}
+
+@media (orientation: landscape) {
+    body {
+        background: #ffffff;
+    }
+    
+    .apps-section {
+        background: #f6f6f684;
+    }
+}
+
+@media (orientation: portrait) {
+    body {
+        background: #f2f2f7;
+    }
+    
+    .apps-section {
+        background: #ffffff;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    @media (orientation: landscape) {
+        body {
+            background: #000000;
+        }
+        
+        .apps-section {
+            background: #28282880;
+        }
+    }
+    
+    @media (orientation: portrait) {
+        body {
+            background: #000000;
+        }
+        
+        .apps-section {
+            background: #1c1c1e;
+        }
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+        color: #ffffff;
+    }
+    
+    h5 {
+        color: #ebebf5;
+    }
+}
+
