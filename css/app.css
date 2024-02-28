@@ -3,7 +3,6 @@ body {
 }
 
 .hero-section {
-  padding-top: 40px;
   padding-bottom: 10px;
 }
 
@@ -25,6 +24,10 @@ body {
 }
 
 @media (orientation: landscape) {
+  .hero-section {
+    padding-top: 40px;
+  }
+
   .hero-section img {
     width: 50%;
   }
@@ -50,15 +53,9 @@ body {
   .hero-section a {
     width: 50%;
   }
-  
+
   .footer {
     padding-top: 50px;
     padding-bottom: 40px;
   }
-}
-
-@media (prefers-color-scheme: dark) {
-   .footer a {
-      border-right: 1px solid #636366;
-   }
 }
