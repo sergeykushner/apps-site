@@ -3,6 +3,7 @@
     overflow-x: auto;
     white-space: nowrap;
     padding-top: 30px;
+    text-decoration: none;
   }
 
   .book-covers-section img {
