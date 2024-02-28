@@ -8,6 +8,7 @@
   .book-covers-section img {
     height: 200px;
     width: auto;
+    text-decoration: none;
   }
 }
 
