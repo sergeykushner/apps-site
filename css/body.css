@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui;
+}
+
+@media (orientation: landscape) {
+    body {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+}
+
+@media (orientation: portrait) {
+    body {
+        padding: 10px;
+    }
+}

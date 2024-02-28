@@ -1,5 +1,4 @@
 body {
-  font-family: system-ui;
   text-align: center;
 }
 
@@ -33,12 +32,9 @@ body {
 }
 
 .footer a {
-  color: #007aff;
-  font-weight: 300;
-  font-size: 13px;
+  border-right: 1px solid #aeaeb2;
   text-decoration: none;
   padding-right: 10px;
-  border-right: 1px solid #aeaeb2;
   margin-right: 10px;
 }
 
@@ -46,26 +42,7 @@ body {
   border-right: none;
 }
 
-@media (orientation: portrait) {
-  body {
-    padding: 10px;
-  }
-
-  .hero-section img {
-    width: 100%;
-  }
-
-  .hero-section a {
-    width: 50%;
-  }
-}
-
 @media (orientation: landscape) {
-  body {
-    padding-top: 50px;
-    padding-bottom: 20px;
-  }
-
   .hero-section img {
     width: 50%;
   }
@@ -82,12 +59,20 @@ body {
     padding-top: 70px;
     padding-bottom: 50px;
   }
+}
 
+@media (orientation: portrait) {
+  .hero-section img {
+    width: 100%;
+  }
+
+  .hero-section a {
+    width: 50%;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-  .footer a {
-    color: #0a84ff;
-    border-right: 1px solid #636366;
-  }
+   .footer a {
+      border-right: 1px solid #636366;
+   }
 }

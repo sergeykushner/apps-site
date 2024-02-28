@@ -42,9 +42,14 @@ p {
   text-align: start;
 }
 
+.footer a {
+  font-weight: 300;
+  font-size: 13px;
+}
+
 @media (orientation: landscape) {
-    p {
-      font-weight: 300;
-      line-height: 1.5;
-    }
+  p {
+    font-weight: 300;
+    line-height: 1.5;
+  }
 }

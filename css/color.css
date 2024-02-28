@@ -3,73 +3,82 @@ h2,
 h3,
 h4,
 p {
-    color: #000000;
+  color: #000000;
 }
 
 h5 {
-    color: #3c3c43;
-    opacity: 0.6;
+  color: #3c3c43;
+  opacity: 0.6;
+}
+
+a,
+.footer a {
+  color: #007aff;
 }
 
 @media (orientation: landscape) {
-    body {
-        background: #ffffff;
-    }
-    
-    .index-app-group,
-    .app-description-group,
-    .privacy-section-group {
-        background: #f6f6f684;
-    }
+  body {
+    background: #ffffff;
+  }
+
+  .index-app-group,
+  .app-description-group,
+  .privacy-section-group {
+    background: #f6f6f684;
+  }
 }
 
 @media (orientation: portrait) {
-    body {
-        background: #f2f2f7;
-    }
-    
-    .index-app-group,
-    .app-description-group,
-    .privacy-section-group {
-        background: #ffffff;
-    }
+  body {
+    background: #f2f2f7;
+  }
+
+  .index-app-group,
+  .app-description-group,
+  .privacy-section-group {
+    background: #ffffff;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    @media (orientation: landscape) {
-        body {
-            background: #000000;
-        }
-        
-        .index-app-group,
-        .app-description-group,
-        .privacy-section-group {
-            background: #28282880;
-        }
+  @media (orientation: landscape) {
+    body {
+      background: #000000;
     }
-    
-    @media (orientation: portrait) {
-        body {
-            background: #000000;
-        }
-        
-        .index-app-group,
-        .app-description-group,
-        .privacy-section-group {
-            background: #1c1c1e;
-        }
-    }
-    
-    h1,
-    h2,
-    h3,
-    h4,
-    p {
-        color: #ffffff;
-    }
-    
-    h5 {
-        color: #ebebf5;
-    }
-}
 
+    .index-app-group,
+    .app-description-group,
+    .privacy-section-group {
+      background: #28282880;
+    }
+  }
+
+  @media (orientation: portrait) {
+    body {
+      background: #000000;
+    }
+
+    .index-app-group,
+    .app-description-group,
+    .privacy-section-group {
+      background: #1c1c1e;
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
+    color: #ffffff;
+  }
+
+  h5 {
+    color: #ebebf5;
+  }
+
+  a,
+  .footer a {
+    color: #0a84ff;
+  }
+}

@@ -1,5 +1,4 @@
 body {
-    font-family: system-ui;
     text-align: center;
 }
 
@@ -18,21 +17,4 @@ body {
 
 .index-app-group a {
     text-decoration: none;
-}
-
-@media (orientation: landscape) {
-    body {
-        padding-top: 10px;
-        padding-bottom: 50px;
-    }
-    
-    .index-app-group {
-        width: 50%;
-    }
-}
-
-@media (orientation: portrait) {
-    body {
-        padding: 10px;
-    }
 }
