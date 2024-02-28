@@ -1,29 +1,17 @@
-@media (orientation: portrait) {
-  .book-covers-section {
-    overflow-x: auto;
-    white-space: nowrap;
-    padding-top: 30px;
-    text-decoration: none;
-  }
+.book-covers-section {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 50px;
+}
 
-  .book-covers-section img {
-    height: 200px;
-    width: auto;
-    text-decoration: none;
-  }
+.book-covers-section img {
+  height: 200px;
+  width: auto;
 }
 
 @media (orientation: landscape) {
   .book-covers-section {
-    overflow-x: auto;
-    white-space: nowrap;
     display: flex;
     justify-content: center;
-    padding-top: 30px;
-  }
-
-  .book-covers-section img {
-    height: 200px;
-    width: auto;
   }
 }

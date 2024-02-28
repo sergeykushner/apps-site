@@ -1,0 +1,35 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer a {
+  border-right: 1px solid #aeaeb2;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+.footer a:last-child {
+  border-right: none;
+}
+
+@media (orientation: landscape) {
+    .footer {
+    padding-top: 50px;
+  }
+}
+
+@media (orientation: portrait) {
+  .footer {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+   .footer a {
+      border-right: 1px solid #636366;
+   }
+}

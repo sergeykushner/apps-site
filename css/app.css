@@ -24,23 +24,6 @@ body {
   margin-top: 15px;
 }
 
-.footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.footer a {
-  border-right: 1px solid #aeaeb2;
-  text-decoration: none;
-  padding-right: 10px;
-  margin-right: 10px;
-}
-
-.footer a:last-child {
-  border-right: none;
-}
-
 @media (orientation: landscape) {
   .hero-section img {
     width: 50%;
